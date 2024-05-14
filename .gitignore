@@ -72,3 +72,4 @@ unreal/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 unreal/DerivedDataCache/*
+unreal/Content/animaciones/animaciones/ABP/ABP_personaje_principal.uasset
